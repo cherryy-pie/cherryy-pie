@@ -1,7 +1,9 @@
-<h1>My skills : </h1>
+<h1>About me : </h1>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,php)
-<!---
-cherryy-pie/cherryy-pie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <h2>My skills : </h2>
+
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,php)
+
+  <h2>Tools :</h2>
+
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discord,miro)
