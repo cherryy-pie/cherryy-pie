@@ -6,4 +6,4 @@
 
   <h2>Tools :</h2>
 
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discord,miro)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discord,miro,photoshop,figma,notion,word,davinci)
