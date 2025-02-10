@@ -2,7 +2,7 @@
 
   <h2>My skills : </h2>
 
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,php,wordpress)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,php,wordpress,twig)
 
   <h2>Tools :</h2>
 
